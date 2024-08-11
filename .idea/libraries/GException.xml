@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GException">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ext-lib/laithailib/GException.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

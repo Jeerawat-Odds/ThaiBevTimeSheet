@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mockito-jupiter">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/ext-lib/mockito-jupiter" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/ext-lib/mockito-jupiter" recursive="false" />
+  </library>
+</component>

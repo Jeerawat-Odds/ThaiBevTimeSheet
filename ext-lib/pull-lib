@@ -1,0 +1,26 @@
+#!/bin/bash
+set -e
+
+cp /home/dumkrerng/IdeaProjects/trunk/lib-artifacts/GException_jar/*.jar laithailib/
+cp /home/dumkrerng/IdeaProjects/trunk/lib-artifacts/LibClient_jar/*.jar laithailib/
+cp /home/dumkrerng/IdeaProjects/trunk/lib-artifacts/LibPP_jar/*.jar laithailib/
+cp /home/dumkrerng/IdeaProjects/trunk/lib-artifacts/LibServer_jar/*.jar laithailib/
+cp /home/dumkrerng/IdeaProjects/trunk/lib-artifacts/LibShare_jar/*.jar laithailib/
+
+cp /home/dumkrerng/IdeaProjects/trunk/lib-artifacts/GHTTPServer.jar laithailib/
+cp /home/dumkrerng/IdeaProjects/trunk/lib-artifacts/LibAndroid.jar laithailib/
+cp /home/dumkrerng/IdeaProjects/trunk/lib-artifacts/LibInterface.jar laithailib/
+cp /home/dumkrerng/IdeaProjects/trunk/lib-artifacts/LibShareAndroid.jar laithailib/
+
+cp /home/dumkrerng/IdeaProjects/trunk/lib-artifacts/ext-lib/DB-Driver/postgresql-42.2.2.jar db-driver/postgresql.jar
+cp /home/dumkrerng/IdeaProjects/trunk/lib-artifacts/ext-lib/DB-Driver/mongodb/bson-4.6.1.jar db-driver/bson.jar
+
+cp /home/dumkrerng/IdeaProjects/trunk/lib-artifacts/ext-lib/json/json-20220320.jar json/json.jar
+
+cp /home/dumkrerng/IdeaProjects/trunk/lib-artifacts/ext-lib/jsoup/jsoup-1.10.3.jar jsoup/jsoup.jar
+
+cp /home/dumkrerng/IdeaProjects/trunk/lib-artifacts/ext-lib/jUnit/*.jar junit/
+cp /home/dumkrerng/IdeaProjects/trunk/lib-artifacts/ext-lib/mockito-jupiter/*.jar mockito-jupiter/
+
+cp /home/dumkrerng/IdeaProjects/trunk/lib-artifacts/ext-lib/lib_iReport/*.jar ireport/
+cp /home/dumkrerng/IdeaProjects/trunk/lib-artifacts/ext-lib/ApacheCommons/commons-io-2.11.0/commons-io-2.11.0.jar commons-io/commons-io.jar

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LibShare">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ext-lib/laithailib/LibShare.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

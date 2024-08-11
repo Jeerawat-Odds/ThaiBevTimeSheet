@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LibAndroid">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ext-lib/laithailib/LibAndroid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

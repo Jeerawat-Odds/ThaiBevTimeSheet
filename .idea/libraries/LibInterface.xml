@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LibInterface">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ext-lib/laithailib/LibInterface.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
